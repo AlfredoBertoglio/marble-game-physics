@@ -10,8 +10,6 @@ body,
     background: ivory;
 }
 
-/* Interface */
-
 .interface{
     position: fixed;
     top: 0;
@@ -21,8 +19,6 @@ body,
     pointer-events: none;
     font-family: 'Bebas Neue', cursive;
 }
-
-/* Time */
 
 .time{
 
